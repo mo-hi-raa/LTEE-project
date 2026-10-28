@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "LTEE variant calling"
+abstract: "Variant calling on LTEE E. coli samples"
+type: software
+authors:
+  - given-names: "mohiraa"
+    family-names: "M"
+    email: "mohiraa.shafreen@mbzuai.ac.ae"
+repository-code: "https://github.com/mo-hi-raa/ltee-project"
+license: MIT
+version: 0.1.0
+date-released: "2026-10-26"
