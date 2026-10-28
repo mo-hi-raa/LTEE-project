@@ -63,3 +63,5 @@ Raw reads are in the NCBI Sequence Read Archive under BioProject PRJNA295606
 all derived data and results are regenerated from it by the code in this
 repository. Code and environment: GitHub repository (MIT), to be archived on
 Zenodo with a DOI.
+
+Practice project from the Reproducible and Open Science lessons.
