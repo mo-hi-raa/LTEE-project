@@ -65,3 +65,7 @@ repository. Code and environment: GitHub repository (MIT), to be archived on
 Zenodo with a DOI.
 
 Practice project from the Reproducible and Open Science lessons.
+
+## Get the data
+
+    pixi exec python scripts/download_data.py
