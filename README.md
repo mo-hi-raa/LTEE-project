@@ -73,3 +73,12 @@ Practice project from the Reproducible and Open Science lessons.
 ## Container
 
 Docker image built from pixi.lock: `docker build --platform linux/amd64 -f containers/Dockerfile --build-arg ENV_NAME=pipeline -t ltee-project:0.1.0 .`
+
+## Container image digest
+
+The results were produced with the image `ghcr.io/mo-hi-raa/ltee-project:0.1.0`,
+built from `pixi.lock` for `linux/amd64`. Its digest is
+`sha256:5345d0e31c7b734f51c0e91fc072b76be13152aaeda8302260e164c2bb150945`.
+Pull exactly this image with:
+
+    docker pull ghcr.io/mo-hi-raa/ltee-project@sha256:5345d0e31c7b734f51c0e91fc072b76be13152aaeda8302260e164c2bb150945
