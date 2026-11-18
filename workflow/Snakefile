@@ -176,3 +176,17 @@ rule depth_sensitivity:
         "results/sensitivity/{sample}_d{depth}.vcf",
     shell:
         "vcfutils.pl varFilter -d {wildcards.depth} {input} > {output}"
+
+
+rule all:
+    default_target: True
+    input:
+        "results/qc/multiqc/multiqc_report.html",
+        expand("results/vcf/{sample}_final_variants.vcf", sample=SAMPLES),
+        expand("results/stats/{sample}.flagstat.txt", sample=SAMPLES),
+        expand("results/stats/{sample}.bcftools-stats.txt", sample=SAMPLES),
+        expand(
+            "results/sensitivity/{sample}_d{depth}.vcf",
+            sample=SAMPLES,
+            depth=config["sensitivity_depths"],
+        ),
