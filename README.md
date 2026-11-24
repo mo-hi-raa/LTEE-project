@@ -1,4 +1,4 @@
-# LTEE variant callin
+# LTEE variant calling
 
 Variant calling on three *E. coli* clones from population Ara-3 of Richard
 Lenski's Long-Term Evolution Experiment (LTEE), frozen at 5,000, 15,000 and
@@ -9,7 +9,7 @@ Built as the example project of the Reproducible and Open Science lessons.
 The analysis steps follow the Data Carpentry lesson *Wrangling
 Genomics* (CC BY 4.0).
 
-Author: Mohiraa  (ORCID [0009-0005-2945-1547])
+Author: Mohiraa  (ORCID [0009-0001-8445-6317](https://orcid.org/0009-0001-8445-6317))
 ## Publication
 
 None yet. The data and biology are from Tenaillon et al. (2016), *Nature*

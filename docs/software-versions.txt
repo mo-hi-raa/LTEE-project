@@ -7,6 +7,7 @@ ipykernel   7.4.0    pyhdba7688_0        139.66 KiB  conda  https://conda.anacon
 jupyterlab  4.6.5    pyhd8ed1ab_0         12.94 MiB  conda  https://conda.anaconda.org/conda-forge
 matplotlib  3.11.2   py313h8db8848_1      14.64 KiB  conda  https://conda.anaconda.org/conda-forge
 multiqc     1.35     pyhdfd78af_2          4.06 MiB  conda  https://conda.anaconda.org/bioconda
+nextflow    26.10.6  h2a3209d_0           40.96 MiB  conda  https://conda.anaconda.org/bioconda
 pandas      2.3.3    py313h7d16b84_2      13.26 MiB  conda  https://conda.anaconda.org/conda-forge
 papermill   2.7.0    pyhd8ed1ab_0         69.24 KiB  conda  https://conda.anaconda.org/conda-forge
 python      3.13.18  hb59dee6_100_cp313   11.42 MiB  conda  https://conda.anaconda.org/conda-forge
