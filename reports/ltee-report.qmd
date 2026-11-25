@@ -1,7 +1,7 @@
 ---
 title: "Mutations in the Long-Term Evolution Experiment"
 subtitle: "Variant calling on three *E. coli* clones from population Ara-3"
-author: "Ada Lovelace"
+author: "Mohiraa Shafreen"
 date: today
 format:
   html:
