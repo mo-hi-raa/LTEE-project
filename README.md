@@ -10,6 +10,8 @@ The analysis steps follow the Data Carpentry lesson *Wrangling
 Genomics* (CC BY 4.0).
 
 Author: Mohiraa  (ORCID [0009-0001-8445-6317](https://orcid.org/0009-0001-8445-6317))
+
+Contributor: Sevinch Rakhmon-Zoda ([sev-rz](https://github.com/sev-rz))
 ## Publication
 
 None yet. The data and biology are from Tenaillon et al. (2016), *Nature*
